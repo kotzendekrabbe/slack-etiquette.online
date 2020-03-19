@@ -1,0 +1,27 @@
+{
+  "name": "slack-etiquette.online",
+  "version": "1.0.0",
+  "description": "Slack Etiquette Tips",
+  "scripts": {
+    "dev": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotzendekrabbe/slack-etiquette.online.git"
+  },
+  "keywords": [],
+  "contributors": [
+    "Stefan Judis <stefanjudis@gmail.com> (https://www.stefanjudis.com)",
+    "Felicitas Kugland"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kotzendekrabbe/slack-etiquette.online/issues"
+  },
+  "homepage": "https://www.slack-etiquette.online",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "clean-css": "^4.2.3",
+    "cssmin": "^0.4.3"
+  }
+}
