@@ -14,8 +14,6 @@ Chat can be problematic. This manifesto should help us to communicate better ove
 
 Overall communication should take place in group channels so that everyone in your team has the same status/information. Be transparent. Be kind.
 
-##
-
 ## Fewer Notifications Means Fewer Disruptions
 
 With people working across different studios, projects and times (colleagues who need to watch after people - for example parents after their kids) it is important to open Slack not to "238" unread messages. How to make fewer notifications? Sent fewer messages! How? Look below!
@@ -35,8 +33,6 @@ Use threads whenever possible. If you answer a question or have a comment please
 ### Mark your thread with emojis
 
 In case your thread was a question and answered, mark it with the ":solved:" emoji (see screenshot below). There may be lots of discussions ongoing in a thread. Often not everybody being interested in the answer, needs to follow the discussions. When you found the answer to your question mark it as solved so that people know to find answers without reading everything.
-
-##
 
 ![Screenshot of solved emoji](./img/screenshot_solved.png)
 
@@ -111,7 +107,7 @@ Do you want to optimise your work or the communication in slack? You need a chan
 
 ### /remind
 
-Can be used to set a reminder for you own or a channel. Syntax: /remind [who][what] [when][learn more about remind](https://slack.com/intl/en-gb/help/articles/208423427-Set-a-reminder)
+Can be used to set a reminder for you own or a channel. Syntax: **/remind [who][what][when]**. [Learn more about remind](https://slack.com/intl/en-gb/help/articles/208423427-Set-a-reminder)
 
 ### Keywords Notifications
 
@@ -127,9 +123,9 @@ Do you know workflow builder? It's a fantastic new feature from Slack which can 
 - Quickly collect information from team members (e.g. with a survery / form)
 - Standardise recurring project updates (e.g. daily reminders for stand ups)
 - Automatically welcome members to channels (e.g with a Direct Message or with a channel message)
-- ... tons more 
+- ... tons of more possibilites
 
-[Learn more...](https://slack.com/intl/en-gb/help/articles/360035692513-Guide-to-Workflow-Builder)
+[Learn how to use the Workflow builder](https://slack.com/intl/en-gb/help/articles/360035692513-Guide-to-Workflow-Builder)
 
 ### More tips and tricks
 
