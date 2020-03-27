@@ -49,9 +49,9 @@ If you think a message or answer is valuable for the team, feel free to cross-po
 ### Use of @here and @channel
 
 Use aliases (@name) of your colleagues first, if you need to reach everyone be aware of the notification and the difference between @here, @channel and @everyone.
-@here notifies only the [active members](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability#availability-in-slack) of a channel
-@channel notifies all members of a channel, [active or not](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability#availability-in-slack)
-@everyone notifies every person in the [#general channel](https://slack.com/help/articles/220105027-The-general-channel)
+* **@here** notifies only the [active members](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability#availability-in-slack) of a channel
+* **@channel** notifies all members of a channel, [active or not](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability#availability-in-slack)
+* **@everyone** notifies every person in the [#general channel](https://slack.com/help/articles/220105027-The-general-channel)
 
 > 💎 Hint: If your Slack Team has renamed the general channel, mention it.
 
