@@ -122,6 +122,15 @@ You can add keywords to your profile & preferences and anytime someone use one o
 
 Type /collapse to hide all image previews in the current channel and /expand to bring them back.
 
+### Workflow builder
+Do you know workflow builder? It's a fantastic new feature from Slack which can help you with:
+- Quickly collect information from team members (e.g. with a survery / form)
+- Standardise recurring project updates (e.g. daily reminders for stand ups)
+- Automatically welcome members to channels (e.g with a Direct Message or with a channel message)
+- ... tons more 
+
+[Learn more...](https://slack.com/intl/en-gb/help/articles/360035692513-Guide-to-Workflow-Builder)
+
 ### More tips and tricks
 
 - can be found at the slack website [here](https://slack.com/intl/en-de/help/categories/360000049063-tips-tricks-more#tips-tricks)
