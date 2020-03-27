@@ -48,7 +48,7 @@ If you think a message or answer is valuable for the team, feel free to cross-po
 
 ### Use of @here and @channel
 
-Use aliases (@name) of your colleagues first, if you need to reach everyone be aware of the notification and the difference between @here, @channel and @everyone.
+Use aliases (@name) of your colleagues first, if you need to reach everyone **be aware** of the notification and the difference between @here, @channel and @everyone.
 * **@here** notifies only the [active members](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability#availability-in-slack) of a channel
 * **@channel** notifies all members of a channel, [active or not](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability#availability-in-slack)
 * **@everyone** notifies every person in the [#general channel](https://slack.com/help/articles/220105027-The-general-channel)
@@ -57,9 +57,9 @@ Use aliases (@name) of your colleagues first, if you need to reach everyone be a
 
 ### Use the right channel for your Message
 
-Channels vary in size and we should think about the importance of a message. Are your questions regional, could they be solved in your team channel or do all SinnerSchrader colleagues have to see it? Consider carefully how many people need your attention.
-For getting a better understanding if it’s the right channel, read the channel description.
-Of course that means we should have a channel description in every channel and maintain it. If there is no channel description, talk to the project team/studio/skill group … which description would fit best and set it up.
+Channels vary in size and we should think about the importance of a message. Are your questions regional, could they be solved in your project/ team channel or do all members of the Slack Workspace have to see it? Consider carefully how many people need your attention.
+For getting a better understanding if it’s the right channel, read the [channel topic and description](https://slack.com/intl/en-de/help/articles/201654083-Set-a-channel-topic-or-description).
+Of course that means we should have a channel topic and description in every channel and maintain it. If there is no channel topic or description, talk to the channel team and decide which description would fit best and set it up.
 
 ![Screenshot of where to change the channel topic](./img/screenshot_channel_topic.png)
 
