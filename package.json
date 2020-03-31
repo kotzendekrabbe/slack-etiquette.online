@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Slack Etiquette Tips",
   "scripts": {
-    "dev": "eleventy --serve"
+    "dev": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",

@@ -17,8 +17,7 @@ Overall communication should take place in group channels so that everyone in yo
 ## Fewer Notifications Means Fewer Disruptions
 
 With people working across different studios, projects and times (colleagues who need to watch after people - for example parents after their kids) it is important to open Slack not to "238" unread messages. How to make fewer notifications? Sent fewer messages! How? Look below!
-
-### One message - one notification
+One message - one notification
 For every message you send in Slack other people will get a notification. Instead of sending one message per line try to get everything you need into a single message. For example don’t start with sent only “hey” or “hello”, make it a first line of your message.
 
 > 💡 Tip: To draft a message with multiple paragraphs, press ctrl+return or shift+return to create line breaks.
