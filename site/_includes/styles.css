@@ -1,8 +1,8 @@
 body {
   font-family: sans-serif;
   color: #373737;
-  font-size: 16px;
-  line-height: 1.25;
+  font-size: 18px;
+  line-height: 1.5;
 }
 
 main {
@@ -31,7 +31,7 @@ h2 {
 }
 
 h2, h3 {
-  margin: 1.5em 0 .425em 0;
+  margin: 2em 0 .5em 0;
 }
 
 p {
@@ -39,13 +39,11 @@ p {
 }
 
 blockquote {
-  margin: 0 0 1.5em 0;
-  padding: .75em .5em 0 .5em;
-  background-color:#e3e3e3;
-  color:  #FF7300;
-  border-left: 3px solid #939393;
-
-  font-style: italic;
+  margin: 0 1em 1.5em 1em;
+  padding: .75em 1em 0 1em;
+  background-color: #ecf7fd;
+  color: inherit;
+  border-radius: 5px;
 }
 
 blockquote img {
