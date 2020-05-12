@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   color: #373737;
-  
+
   font-size: 18px;
   line-height: 1.5;
 }
@@ -40,12 +40,11 @@ p {
 }
 
 blockquote {
+  margin: 0 1em 1.5em 1em;
+  padding: .75em 1em 0 1em;
   background-color: #ecf7fd;
   color: inherit;
   border-radius: 5px;
-  padding: 1em 1em 0 1em;
-
-  margin-left: 0 1em 1.5em 1em;
 }
 
 blockquote img {
