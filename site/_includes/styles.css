@@ -6,7 +6,8 @@ body {
   line-height: 1.5;
 }
 
-main {
+main,
+footer {
   width: 90%;
   max-width: 720px;
   margin: 0 auto;
@@ -28,15 +29,26 @@ a {
 }
 
 h2 {
-  border-bottom: 1px solid #939393;
+  border-bottom: 1px solid #373737;
 }
 
 h2, h3 {
   margin: 2em 0 .5em 0;
 }
 
+h6 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
 p {
   margin: 0 0 1em 0;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #373737;
 }
 
 blockquote {
@@ -58,6 +70,25 @@ blockquote p:last-child {
 
 blockquote p img {
   margin-bottom: -.5em;
+}
+
+footer {
+  font-size: 16px;
+  text-align: center;
+
+  margin-top: 2em;
+
+  padding-top: .5em;
+  padding-bottom: 1em;
+
+  background: repeating-linear-gradient(
+    -55deg,
+    #fff,
+    #fff 10px,
+    #ecf7fd 10px,
+    #ecf7fd 20px
+  )
+
 }
 
 /* github corner* */
