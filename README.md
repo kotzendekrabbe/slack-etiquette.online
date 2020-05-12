@@ -6,7 +6,7 @@
 ## What it is!
 
 Slack Etiquette is a set of team rules for proper slack/chat communication. 
-Nowadays more "slack" communitication are taking place, more and more companies switching to a remote by default approach. Not everyone is used to it. Therefore we want to share a Slack Communication Etiquette with you which contains all our expirence.
+Nowadays more "slack" communitication is taking place, more and more companies switching to a remote by default approach. Not everyone is used to it. Therefore we want to share a Slack Communication Etiquette with you which contains all our experience.
 
 
 ## Important
