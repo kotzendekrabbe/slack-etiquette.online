@@ -8,6 +8,8 @@ module.exports = function(eleventyConfig) {
     code => new CleanCSS({}).minify(code).styles
   );
 
+  eleventyConfig.addPassthroughCopy({ "site/favicon": "/" });
+
   return {
     dir: {
       input: 'site',
