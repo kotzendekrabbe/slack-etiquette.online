@@ -21,8 +21,8 @@
   },
   "homepage": "https://www.slack-etiquette.online",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
-    "clean-css": "^4.2.3",
+    "@11ty/eleventy": "^0.12.1",
+    "clean-css": "^5.1.2",
     "cssmin": "^0.4.3"
   }
 }
